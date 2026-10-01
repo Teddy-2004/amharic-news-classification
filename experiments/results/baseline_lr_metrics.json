@@ -1,0 +1,15 @@
+{
+  "run_name": "baseline_lr",
+  "approach": "TF-IDF (ngram 1-1, max_features=50000) + Logistic Regression",
+  "eval_split": "test",
+  "accuracy": 0.82890739833415,
+  "macro_precision": 0.770518802456012,
+  "macro_recall": 0.8627199201990402,
+  "macro_f1": 0.8057980758691353,
+  "config": {
+    "model": "lr",
+    "max_features": 50000,
+    "ngram_max": 1,
+    "C": 1.0
+  }
+}
