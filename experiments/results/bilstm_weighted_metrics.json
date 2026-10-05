@@ -1,0 +1,23 @@
+{
+  "run_name": "bilstm_weighted",
+  "approach": "BiLSTM (embed_dim=200, hidden_dim=128, layers=1), trained embeddings, vocab=30002, class-weighted loss",
+  "eval_split": "test",
+  "accuracy": 0.7908868201861833,
+  "macro_precision": 0.7147996435802684,
+  "macro_recall": 0.7288559289720608,
+  "macro_f1": 0.7207333328916654,
+  "best_val_macro_f1": 0.7196102548044193,
+  "config": {
+    "epochs": 10,
+    "batch_size": 32,
+    "embed_dim": 200,
+    "hidden_dim": 128,
+    "n_layers": 1,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "max_len": 200,
+    "vocab_size": 30000,
+    "min_freq": 2,
+    "class_weights": true
+  }
+}
