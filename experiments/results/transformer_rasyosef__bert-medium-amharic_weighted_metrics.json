@@ -1,0 +1,18 @@
+{
+  "run_name": "transformer_rasyosef__bert-medium-amharic_weighted",
+  "approach": "Fine-tuned rasyosef/bert-medium-amharic (max_len=256, epochs=4, lr=2e-05)",
+  "eval_split": "test",
+  "accuracy": 0.858108770210681,
+  "macro_precision": 0.8213810147545842,
+  "macro_recall": 0.8543465929269004,
+  "macro_f1": 0.8333326528983137,
+  "config": {
+    "model": "rasyosef/bert-medium-amharic",
+    "epochs": 4,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "max_length": 256,
+    "fp16": false,
+    "class_weights": true
+  }
+}
