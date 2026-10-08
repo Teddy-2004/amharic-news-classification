@@ -1,0 +1,18 @@
+{
+  "run_name": "transformer_xlm-roberta-base",
+  "approach": "Fine-tuned xlm-roberta-base (max_len=256, epochs=4, lr=2e-05)",
+  "eval_split": "test",
+  "accuracy": 0.8194022537971583,
+  "macro_precision": 0.7705978838405194,
+  "macro_recall": 0.7772033889050705,
+  "macro_f1": 0.7712135063101684,
+  "config": {
+    "model": "xlm-roberta-base",
+    "epochs": 4,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "max_length": 256,
+    "fp16": false,
+    "class_weights": false
+  }
+}
