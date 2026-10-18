@@ -6,8 +6,8 @@
 **Course:** Machine Learning Technique I
 **Submission Date:** October 18, 2026
 
-**GitHub Repository:** [INSERT YOUR GITHUB REPOSITORY URL]
-**Demo Video:** [INSERT YOUR DEMO VIDEO URL]
+**GitHub Repository:** https://github.com/Teddy-2004/amharic-news-classification.git
+**Demo Video:** https://youtu.be/YGb_eK9PtCs
 **Live System:** https://huggingface.co/spaces/tedlai/amharic-news-classifier
 
 ---

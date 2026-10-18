@@ -6,7 +6,7 @@ project for NLP for the African Context.
 
 **Live demo:** https://huggingface.co/spaces/tedlai/amharic-news-classifier
 **Report:** [`report/Amharic_News_Classification_Report.pdf`](report/Amharic_News_Classification_Report.pdf)
-**Demo video:** [INSERT YOUR DEMO VIDEO URL]
+**Demo video:** https://youtu.be/YGb_eK9PtCs
 
 ---
 
